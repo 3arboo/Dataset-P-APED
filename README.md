@@ -7,13 +7,14 @@ The dataset was constructed using a hybrid approach: collecting raw data and lev
 
 
 ## 📂 Data Structure
-The dataset contains the following key columns:
 | Column | Description |
 | :--- | :--- |
-| `subject_ar` | The subject line of the email in Arabic. |
-| `body_ar` | The main content/body of the email. |
-| `label` | Categorical label (`Safe Email` or `Phishing Email`). |
-
+| `original_id` | Unique identifier for each entry. |
+| `label` | Target class (`Safe Email` or `Phishing Email`). |
+| `sector` | The organizational context of the email (e.g., Government, Corporate). |
+| `trait` | The psychological personality trait targeted or reflected in the email text. |
+| `subject_ar` | The Arabic subject line. |
+| `body_ar` | The full Arabic body content of the email. |
 
 
 
