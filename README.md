@@ -36,15 +36,4 @@ This dataset has been benchmarked using various architectures:
 - **CNN (1D):** 96.30% Accuracy
 - **XGBoost:** 93.58% Accuracy
 
-## ⚠️ Privacy & Access
-This repository is currently **Private** for peer-review purposes. Access is granted upon request for academic evaluation.
 
-## 🎓 Citation
-If you utilize this dataset in your research, please use the following citation:
-```text
-@dataset{l_arbi_2026_paped,
-  author = {L. Arbi and [Co-authors]},
-  title = {P-APED: Prompt-based Arabic Phishing Email Dataset},
-  year = {2026},
-  url = {[https://github.com/your-username/P-APED](https://github.com/your-username/P-APED)}
-}
