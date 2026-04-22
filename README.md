@@ -2,7 +2,7 @@
 
 ## 📝 Overview
 
-**P-APED** is a high-diversity dataset specifically engineered to address the scarcity of realistic Arabic phishing data. While most existing datasets rely on poor machine translations, P-APED utilizes **Gemini 1.5 Pro** and advanced prompt engineering to generate linguistically natural and culturally relevant phishing scenarios targeting the MENA region.
+**P-APED** is a high-diversity dataset specifically engineered to address the scarcity of realistic Arabic phishing data. While most existing datasets rely on poor machine translations, P-APED utilizes **Gemini 2.5 Pro** and advanced prompt engineering to generate linguistically natural and culturally relevant phishing scenarios targeting the MENA region.
 
 The dataset bridges the gap between traditional social engineering tactics and modern, localized cyber threats, covering sectors like regional banking, government services, and corporate logistics.
 
