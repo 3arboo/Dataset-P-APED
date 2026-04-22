@@ -13,7 +13,7 @@ The dataset bridges the gap between traditional social engineering tactics and m
 The dataset construction follows a rigorous four-stage pipeline to ensure semantic integrity and regional authenticity.
 
 1.  **Baseline Collection:** Extraction of core intent from human-authored English social engineering corpora.
-2.  **LLM-Driven Augmentation:** Leveraging **Gemini 1.5 Pro** to refine messages. Unlike standard translation, this process generates content natively in Arabic, incorporating local dialects and cultural nuances.
+2.  **LLM-Driven Augmentation:** Leveraging **Gemini 2.5 Pro** to refine messages. Unlike standard translation, this process generates content natively in Arabic, incorporating local dialects and cultural nuances.
 3.  **Labeling & Classification:** Systematic categorization into `Safe` and `Phishing` classes.
 4.  **Aggregation:** Final compilation into a high-diversity corpus designed for training robust NLP detection models.
 
